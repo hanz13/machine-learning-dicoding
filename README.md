@@ -1,6 +1,8 @@
 # Proyek Akhir: Klasifikasi Gambar
 Submission at Dicoding: Belajar Machine Learning buat Pemula
 
+Selamat, Anda telah berada di akhir pembelajaran dalam akademi ini. Anda sudah mempelajari dasar-dasar machine learning dan bagaimana jaringan saraf bekerja. Untuk bisa lulus dari akademi ini, Anda harus mengirimkan submission berupa program jaringan saraf tiruan menggunakan TensorFlow. Program Anda harus mampu mengenali bentuk tangan yang membentuk gunting, batu, atau kertas.
+
 Untuk bisa lulus dari akademi ini, Anda harus mengirimkan submission berupa program jaringan saraf tiruan menggunakan TensorFlow. Program Anda harus mampu mengenali bentuk tangan yang membentuk gunting, batu, atau kertas.
 
 ### Kriteria Submission
@@ -17,9 +19,9 @@ Berikut kriteria submission yang harus Anda penuhi:
 * Akurasi dari model minimal 85%.
 * Dapat memprediksi gambar yang diunggah ke Colab
 
-Course ini dapat diakses melalui https://www.dicoding.com/academies/184
+Course ini dapat diakses melalui link https://www.dicoding.com/academies/184
 
-# Project submit by: github.com/hanz13
-# https://dicoding.com/users/subhanashof
+### Project submit by: github.com/hanz13
+### https://dicoding.com/users/subhanashof
 
 
