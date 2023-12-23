@@ -19,7 +19,7 @@ Berikut kriteria submission yang harus Anda penuhi:
 * Akurasi dari model minimal 85%.
 * Dapat memprediksi gambar yang diunggah ke Colab
 
-Course ini dapat diakses melalui link https://www.dicoding.com/academies/184
+Course ini dapat diakses oleh kamu melalui link https://www.dicoding.com/academies/184
 
 ### Project submit by: github.com/hanz13
 ### https://dicoding.com/users/subhanashof
